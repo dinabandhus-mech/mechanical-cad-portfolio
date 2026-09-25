@@ -5,28 +5,84 @@
 A complete 3D CAD assembly of a jet engine developed to demonstrate complex mechanical assembly, component integration, assembly constraints, and design visualization.
 
 ### Software
+
 - Creo Parametric
 
 ### Project Focus
+
 - 3D CAD Modeling
 - Mechanical Assembly
 - Component Integration
 - Assembly Constraints
+- Mechanism & Motion Analysis
 - Mechanical Design Visualization
 
-## Key Features
+---
 
-- Multiple mechanical components assembled into a complete system
-- Accurate component positioning and alignment
-- Assembly constraints and relationships
-- Detailed 3D CAD modeling
-- Professional assembly visualization
+## Project Highlights
+
+- Complete jet engine assembly modeled in Creo Parametric
+- Multiple mechanical components integrated into a single assembly
+- Detailed internal compressor and turbine components
+- Assembly constraints and component positioning
+- Mechanism/motion analysis performed in Creo
+- Cutaway visualization to show internal components
+
+---
+
+## Project Images
+
+### Complete Assembly
+
+![Jet Engine Assembly](jet-engine-assembly.png)
+
+### Side View
+
+![Jet Engine Side View](jet-engine-side-view.png)
+
+### Internal Cutaway View
+
+![Jet Engine Cutaway](jet-engine-cutaway.png)
+
+### Motion Analysis
+
+![Jet Engine Motion Analysis](jet-engine-motion-analysis.png)
+
+### Creo Mechanism Analysis
+
+![Creo Analysis](jet-engine-creo-analysis.png)
+
+---
+
+## Motion Analysis
+
+The assembly was tested using Creo Parametric Mechanism/Motion Analysis to demonstrate the movement and behavior of the mechanical system.
+
+**Software:** Creo Parametric  
+**Analysis:** Mechanism / Position Analysis
+
+### Motion Video
+
+▶️ **[Watch Jet Engine Motion Analysis](#)**
+
+> The video link will be added here after uploading the motion video.
+
+---
 
 ## Skills Demonstrated
 
 - Part Modeling
-- Assembly Modeling
-- Mechanical CAD
-- Component Integration
+- 3D CAD Modeling
+- Mechanical Assembly
 - Assembly Constraints
+- Component Integration
+- Mechanism Design
+- Motion Analysis
 - Design Visualization
+- CAD Assembly Documentation
+
+---
+
+## Project Outcome
+
+This project helped develop practical skills in complex mechanical assembly, component integration, CAD visualization, and mechanism-based motion analysis using Creo Parametric.
