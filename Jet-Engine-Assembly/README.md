@@ -56,17 +56,16 @@ A complete 3D CAD assembly of a jet engine developed to demonstrate complex mech
 
 ## Motion Analysis
 
-The assembly was tested using Creo Parametric Mechanism/Motion Analysis to demonstrate the movement and behavior of the mechanical system.
+The jet engine assembly was evaluated using Creo Parametric Mechanism/Motion Analysis to demonstrate assembly movement and mechanical system behavior.
 
 **Software:** Creo Parametric  
-**Analysis:** Mechanism / Position Analysis
+**Analysis Type:** Position / Mechanism Analysis
 
 ### Motion Video
 
 ▶️ **[Watch Jet Engine Motion Analysis](jet-engine-motion-analysis.mp4)**
 
-> The video link will be added here after uploading the motion video.
-
+The video demonstrates the motion behavior of the assembled components in the Creo Parametric environment.
 ---
 
 ## Skills Demonstrated
