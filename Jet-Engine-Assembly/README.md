@@ -63,9 +63,9 @@ The jet engine assembly was evaluated using Creo Parametric Mechanism/Motion Ana
 
 ### Motion Video
 
-▶️ **[Watch Jet Engine Motion Analysis](jet-engine-motion-analysis.mp4.mp4)**
+▶️ **[Watch Jet Engine Motion Analysis on YouTube]([YOUR-YOUTUBE-LINK](https://youtu.be/q-F7o1sMwek))**
 
-The video demonstrates the motion behavior of the assembled components in the Creo Parametric environment.
+The video demonstrates the motion behavior of the assembled components using Creo Parametric.
 ---
 
 ## Skills Demonstrated
