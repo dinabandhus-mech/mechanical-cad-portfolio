@@ -63,7 +63,7 @@ The assembly was tested using Creo Parametric Mechanism/Motion Analysis to demon
 
 ### Motion Video
 
-▶️ **[Watch Jet Engine Motion Analysis](#)**
+▶️ **[Watch Jet Engine Motion Analysis](jet-engine-motion-analysis.mp4)**
 
 > The video link will be added here after uploading the motion video.
 
